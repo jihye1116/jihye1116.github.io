@@ -4,13 +4,12 @@
         "details": [
         {
           "appID": "54Y988RQNS.com.example.durumo.service",
-            paths": [
-                "/auth",
-                "/home",
-                "/auth/*",
-                "/home/*"
+            "paths": [
+                "/",                  
+                "/auth/*",            
+                "/auth/google/*",     
+                "/auth/apple/*"       
             ]
-
         }
       ]
     }

@@ -2,10 +2,10 @@
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
-      "namespace": "gonnabe",
+      "namespace": "android_app",
       "package_name": "com.hooaah.gonnabe",
       "sha256_cert_fingerprints": [
-        "AA:BB:CC:DD:EE:FF:11:22:33:44:55:66:77:88:99:00:11:22:33:44:55:66:77:88:99:AA:BB:CC:DD:EE:FF:00:11"
+        "C1:08:CA:EA:7D:B5:12:7C:9B:0F:3F:F7:8B:18:DF:AB:C4:DC:D8:27:71:E7:45:C3:DE:D4:C1:E5:6A:9D:BB:41"
       ]
     }
   }

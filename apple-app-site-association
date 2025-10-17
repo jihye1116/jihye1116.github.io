@@ -3,8 +3,12 @@
     "apps": [],
     "details": [
       {
-        "appID": "ABCDEFG123.com.yourorg.yourapp",
-        "paths": ["*", "/product/*", "/promo/*"]
+        "appID": "6QDMK8T4M5.com.hooaah.gonnabe",
+        "paths": [
+          "*",
+          "/product/*",
+          "/promo/*"
+        ]
       }
     ]
   }

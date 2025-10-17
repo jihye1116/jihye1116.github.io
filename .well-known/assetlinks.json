@@ -2,10 +2,10 @@
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
-      "namespace": "android_app",
-      "package_name": "com.yourorg.yourapp",
+      "namespace": "gonnabe",
+      "package_name": "com.hooaah.gonnabe",
       "sha256_cert_fingerprints": [
-        "AA:BB:CC:DD:...:ZZ"  // 네 앱 서명 SHA-256 지문
+        "AA:BB:CC:DD:EE:FF:11:22:33:44:55:66:77:88:99:00:11:22:33:44:55:66:77:88:99:AA:BB:CC:DD:EE:FF:00:11"
       ]
     }
   }

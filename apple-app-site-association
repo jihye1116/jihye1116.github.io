@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "ABCDEFG123.com.yourorg.yourapp",
+        "paths": ["*", "/product/*", "/promo/*"]
+      }
+    ]
+  }
+}
